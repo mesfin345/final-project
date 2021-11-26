@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+body {
+
+    background-color: #ccfff1; 
+    
+}
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#description {
+    text-align: center;
+    text-transform: uppercase;    
+}
