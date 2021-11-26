@@ -16,3 +16,33 @@ body {
     text-align: center;
     text-transform: uppercase;    
 }
+#container {
+    background-color: #808080;
+    margin: 0 200px;
+    justify-items: center;
+}
+#name,#email,#number,#name-label,#email-label,#number-label {
+    display: flex;
+   justify-items: center;
+   width: 100%;
+
+
+}
+#survey-form {
+    width: 80%;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin: 50px auto;
+   
+}
+.input-checkbox{
+    display: flex;
+}
+#comments {
+    width: 100%;
+}
+#submit {
+    background-color: #90ee90;
+    color: #ffffff;
+    width: 100%;
+}
